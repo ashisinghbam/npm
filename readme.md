@@ -1,5 +1,5 @@
-NPM Crash Course
-39:09 - Import Export in JS Video
+## NPM Crash Course
+- 39:09 - Import Export in JS Video
 
 📖 Chapters
 - 00:00 - Introduction
